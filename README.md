@@ -1,3 +1,4 @@
+![TradinggifGIF](https://github.com/user-attachments/assets/a9377ad0-4a13-4411-b0ca-8a626c9d26a5)
 
 
 # 💸 Valyutalar
