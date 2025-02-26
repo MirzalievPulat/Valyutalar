@@ -3,7 +3,7 @@
 
 # 💸 Valyutalar
 
-Valyutalar is a helpful app for monitoring currensy changes
+Valyutalar is a helpful app for monitoring currency changes. It convert a certain currency to sum and vice versa. Also it can get data by a certain date.
 ## 📸 Screenshots
 
 | <img src="https://github.com/MirzalievPulat/Valyutalar/blob/main/1.jpg?raw=true" width="200"/> | <img src="https://github.com/MirzalievPulat/Valyutalar/blob/main/2.jpg?raw=true" width="200"/> |
